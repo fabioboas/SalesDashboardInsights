@@ -1,0 +1,1001 @@
+CustomerID	CustomerName	City
+1	Customer 1	Delhi
+2	Customer 2	Tokyo
+3	Customer 3	London
+4	Customer 4	Tokyo
+5	Customer 5	Tokyo
+6		New York
+7	Customer 7	London
+8	Customer 8	London
+9	Customer 9	London
+10	Customer 10	Tokyo
+11	Customer 20	Delhi
+12	Customer 12	London
+13	Customer 13	Tokyo
+14	Customer 14	New York
+15	Customer 15	Delhi
+16	Customer 16	   NEW YORK
+17	Customer 17	Delhi
+18	Customer 18	Tokyo
+19	Customer 19	São Paulo
+20	Customer 20	Delhi
+21	Customer 21	london 
+22	Customer 22	Tokyo
+23	Customer 23	Delhi
+24	Customer 24	São Paulo
+25	Customer 25	São Paulo
+26	Customer 26	London
+27	Customer 27	London
+28	Customer 28	New York
+29	Customer 29	Delhi
+30	Customer 30	Delhi
+31	Customer 31	London
+32	Customer 32	Delhi
+33	Customer 33	Delhi
+34	Customer 34	São Paulo
+35	Customer 35	London
+36	Customer 36	Tokyo
+37	Customer 37	London
+38	Customer 38	Tokyo
+39	Customer 39	São Paulo
+40	Customer 40	New York
+41	Customer 41	Delhi
+42	Customer 42	São Paulo
+43	Customer 43	Delhi
+44	Customer 44	New York
+45	Customer 45	New York
+46	Customer 46	São Paulo
+47	Customer 47	New York
+48	Customer 48	Tokyo
+49	Customer 49	New York
+50	Customer 50	Delhi
+51	Customer 51	Delhi
+52	Customer 52	Delhi
+53	Customer 53	Delhi
+54	Customer 54	Tokyo
+55	Customer 55	London
+56	Customer 56	São Paulo
+57	Customer 57	Delhi
+58	Customer 58	New York
+59	Customer 59	Delhi
+60	Customer 60	New York
+61	Customer 61	New York
+62	Customer 62	Delhi
+63	Customer 63	Tokyo
+64	Customer 64	New York
+65	Customer 65	New York
+66	Customer 66	Delhi
+67	Customer 67	New York
+68	Customer 68	New York
+69	Customer 69	Delhi
+70	Customer 70	Delhi
+71	Customer 71	São Paulo
+72	Customer 72	Tokyo
+73	Customer 73	Tokyo
+74	Customer 74	New York
+75	Customer 75	Tokyo
+76	Customer 76	New York
+77	Customer 77	São Paulo
+78	Customer 78	Delhi
+79	Customer 79	Delhi
+80	Customer 80	Delhi
+81	Customer 81	Tokyo
+82	Customer 82	São Paulo
+83	Customer 83	Tokyo
+84	Customer 84	Tokyo
+85	Customer 85	São Paulo
+86	Customer 86	São Paulo
+87	Customer 87	São Paulo
+88	Customer 88	São Paulo
+89	Customer 89	Delhi
+90	Customer 90	London
+91	Customer 91	London
+92	Customer 92	São Paulo
+93	Customer 93	London
+94	Customer 94	London
+95	Customer 95	São Paulo
+96	Customer 96	London
+97	Customer 97	Tokyo
+98	Customer 98	New York
+99	Customer 99	New York
+100	Customer 100	São Paulo
+101	Customer 101	Delhi
+102	Customer 102	São Paulo
+103	Customer 103	Delhi
+104	Customer 104	New York
+105	Customer 105	São Paulo
+106	Customer 106	Tokyo
+107	Customer 107	London
+108	Customer 108	Delhi
+109	Customer 109	London
+110	Customer 110	London
+111	Customer 111	São Paulo
+112	Customer 112	London
+113	Customer 113	Tokyo
+114	Customer 114	London
+115	Customer 115	São Paulo
+116	Customer 116	Tokyo
+117	Customer 117	New York
+118	Customer 118	London
+119	Customer 119	São Paulo
+120	Customer 120	New York
+121	Customer 121	New York
+122	Customer 122	Delhi
+123	Customer 123	Tokyo
+124	Customer 124	London
+125	Customer 125	São Paulo
+126	Customer 126	Delhi
+127	Customer 127	Tokyo
+128	Customer 128	Delhi
+129	Customer 129	Tokyo
+130	Customer 130	Tokyo
+131	Customer 131	London
+132	Customer 132	Tokyo
+133	Customer 133	Delhi
+134	Customer 134	Tokyo
+135	Customer 135	London
+136	Customer 136	London
+137	Customer 137	Delhi
+138	Customer 138	New York
+139	Customer 139	New York
+140	Customer 140	Tokyo
+141	Customer 141	São Paulo
+142	Customer 142	Tokyo
+143	Customer 143	Delhi
+144	Customer 144	Delhi
+145	Customer 145	Delhi
+146	Customer 146	Delhi
+147	Customer 147	Delhi
+148	Customer 148	London
+149	Customer 149	New York
+150	Customer 150	Delhi
+151	Customer 151	São Paulo
+152	Customer 152	São Paulo
+153	Customer 153	São Paulo
+154	Customer 154	São Paulo
+155	Customer 155	London
+156	Customer 156	São Paulo
+157	Customer 157	Delhi
+158	Customer 158	Tokyo
+159	Customer 159	São Paulo
+160	Customer 160	London
+161	Customer 161	London
+162	Customer 162	São Paulo
+163	Customer 163	Tokyo
+164	Customer 164	São Paulo
+165	Customer 165	London
+166	Customer 166	New York
+167	Customer 167	Delhi
+168	Customer 168	London
+169	Customer 169	São Paulo
+170	Customer 170	Delhi
+171	Customer 171	São Paulo
+172	Customer 172	São Paulo
+173	Customer 173	New York
+174	Customer 174	Delhi
+175	Customer 175	Delhi
+176	Customer 176	New York
+177	Customer 177	London
+178	Customer 178	São Paulo
+179	Customer 179	Tokyo
+180	Customer 180	São Paulo
+181	Customer 181	São Paulo
+182	Customer 182	London
+183	Customer 183	São Paulo
+184	Customer 184	New York
+185	Customer 185	New York
+186	Customer 186	Delhi
+187	Customer 187	Tokyo
+188	Customer 188	São Paulo
+189	Customer 189	São Paulo
+190	Customer 190	London
+191	Customer 191	New York
+192	Customer 192	Tokyo
+193	Customer 193	Delhi
+194	Customer 194	New York
+195	Customer 195	Delhi
+196	Customer 196	London
+197	Customer 197	London
+198	Customer 198	São Paulo
+199	Customer 199	Tokyo
+200	Customer 200	Delhi
+201	Customer 201	New York
+202	Customer 202	London
+203	Customer 203	São Paulo
+204	Customer 204	São Paulo
+205	Customer 205	Delhi
+206	Customer 206	London
+207	Customer 207	Tokyo
+208	Customer 208	London
+209	Customer 209	Delhi
+210	Customer 210	Delhi
+211	Customer 211	London
+212	Customer 212	Delhi
+213	Customer 213	London
+214	Customer 214	New York
+215	Customer 215	London
+216	Customer 216	London
+217	Customer 217	Delhi
+218	Customer 218	Delhi
+219	Customer 219	São Paulo
+220	Customer 220	São Paulo
+221	Customer 221	New York
+222	Customer 222	São Paulo
+223	Customer 223	London
+224	Customer 224	Delhi
+225	Customer 225	São Paulo
+226	Customer 226	São Paulo
+227	Customer 227	New York
+228	Customer 228	New York
+229	Customer 229	London
+230	Customer 230	Delhi
+231	Customer 231	New York
+232	Customer 232	São Paulo
+233	Customer 233	Delhi
+234	Customer 234	Delhi
+235	Customer 235	São Paulo
+236	Customer 236	New York
+237	Customer 237	São Paulo
+238	Customer 238	Delhi
+239	Customer 239	Tokyo
+240	Customer 240	Tokyo
+241	Customer 241	London
+242	Customer 242	São Paulo
+243	Customer 243	São Paulo
+244	Customer 244	London
+245	Customer 245	London
+246	Customer 246	London
+247	Customer 247	Delhi
+248	Customer 248	São Paulo
+249	Customer 249	Delhi
+250	Customer 250	London
+251	Customer 251	São Paulo
+252	Customer 252	Delhi
+253	Customer 253	Delhi
+254	Customer 254	London
+255	Customer 255	São Paulo
+256	Customer 256	London
+257	Customer 257	São Paulo
+258	Customer 258	Tokyo
+259	Customer 259	New York
+260	Customer 260	New York
+261	Customer 261	New York
+262	Customer 262	London
+263	Customer 263	Tokyo
+264	Customer 264	São Paulo
+265	Customer 265	Delhi
+266	Customer 266	São Paulo
+267	Customer 267	Delhi
+268	Customer 268	São Paulo
+269	Customer 269	Tokyo
+270	Customer 270	Delhi
+271	Customer 271	London
+272	Customer 272	São Paulo
+273	Customer 273	São Paulo
+274	Customer 274	Delhi
+275	Customer 275	London
+276	Customer 276	London
+277	Customer 277	Tokyo
+278	Customer 278	London
+279	Customer 279	London
+280	Customer 280	London
+281	Customer 281	New York
+282	Customer 282	Tokyo
+283	Customer 283	São Paulo
+284	Customer 284	Delhi
+285	Customer 285	São Paulo
+286	Customer 286	Tokyo
+287	Customer 287	Delhi
+288	Customer 288	Tokyo
+289	Customer 289	London
+290	Customer 290	Delhi
+291	Customer 291	London
+292	Customer 292	São Paulo
+293	Customer 293	São Paulo
+294	Customer 294	Delhi
+295	Customer 295	Delhi
+296	Customer 296	Tokyo
+297	Customer 297	Tokyo
+298	Customer 298	London
+299	Customer 299	Delhi
+300	Customer 300	São Paulo
+301	Customer 301	Tokyo
+302	Customer 302	Tokyo
+303	Customer 303	São Paulo
+304	Customer 304	Tokyo
+305	Customer 305	London
+306	Customer 306	Delhi
+307	Customer 307	São Paulo
+308	Customer 308	Delhi
+309	Customer 309	Tokyo
+310	Customer 310	Tokyo
+311	Customer 311	São Paulo
+312	Customer 312	London
+313	Customer 313	New York
+314	Customer 314	São Paulo
+315	Customer 315	New York
+316	Customer 316	New York
+317	Customer 317	London
+318	Customer 318	New York
+319	Customer 319	New York
+320	Customer 320	London
+321	Customer 321	New York
+322	Customer 322	New York
+323	Customer 323	New York
+324	Customer 324	São Paulo
+325	Customer 325	São Paulo
+326	Customer 326	São Paulo
+327	Customer 327	London
+328	Customer 328	Tokyo
+329	Customer 329	New York
+330	Customer 330	New York
+331	Customer 331	London
+332	Customer 332	New York
+333	Customer 333	São Paulo
+334	Customer 334	Tokyo
+335	Customer 335	Delhi
+336	Customer 336	New York
+337	Customer 337	São Paulo
+338	Customer 338	Delhi
+339	Customer 339	Tokyo
+340	Customer 340	Delhi
+341	Customer 341	São Paulo
+342	Customer 342	Delhi
+343	Customer 343	London
+344	Customer 344	Delhi
+345	Customer 345	New York
+346	Customer 346	New York
+347	Customer 347	London
+348	Customer 348	São Paulo
+349	Customer 349	New York
+350	Customer 350	Tokyo
+351	Customer 351	New York
+352	Customer 352	New York
+353	Customer 353	São Paulo
+354	Customer 354	Delhi
+355	Customer 355	New York
+356	Customer 356	London
+357	Customer 357	Delhi
+358	Customer 358	Tokyo
+359	Customer 359	São Paulo
+360	Customer 360	Tokyo
+361	Customer 361	Delhi
+362	Customer 362	Delhi
+363	Customer 363	Delhi
+364	Customer 364	Tokyo
+365	Customer 365	Delhi
+366	Customer 366	Tokyo
+367	Customer 367	Delhi
+368	Customer 368	London
+369	Customer 369	Delhi
+370	Customer 370	Tokyo
+371	Customer 371	New York
+372	Customer 372	Delhi
+373	Customer 373	New York
+374	Customer 374	London
+375	Customer 375	São Paulo
+376	Customer 376	London
+377	Customer 377	Delhi
+378	Customer 378	New York
+379	Customer 379	New York
+380	Customer 380	Tokyo
+381	Customer 381	New York
+382	Customer 382	Tokyo
+383	Customer 383	São Paulo
+384	Customer 384	Delhi
+385	Customer 385	Tokyo
+386	Customer 386	São Paulo
+387	Customer 387	New York
+388	Customer 388	New York
+389	Customer 389	São Paulo
+390	Customer 390	New York
+391	Customer 391	São Paulo
+392	Customer 392	Tokyo
+393	Customer 393	Tokyo
+394	Customer 394	São Paulo
+395	Customer 395	Tokyo
+396	Customer 396	Tokyo
+397	Customer 397	Tokyo
+398	Customer 398	London
+399	Customer 399	Delhi
+400	Customer 400	New York
+401	Customer 401	London
+402	Customer 402	Tokyo
+403	Customer 403	São Paulo
+404	Customer 404	Tokyo
+405	Customer 405	Delhi
+406	Customer 406	Tokyo
+407	Customer 407	São Paulo
+408	Customer 408	Delhi
+409	Customer 409	Tokyo
+410	Customer 410	Delhi
+411	Customer 411	New York
+412	Customer 412	New York
+413	Customer 413	Tokyo
+414	Customer 414	Delhi
+415	Customer 415	São Paulo
+416	Customer 416	Tokyo
+417	Customer 417	New York
+418	Customer 418	New York
+419	Customer 419	Tokyo
+420	Customer 420	Delhi
+421	Customer 421	New York
+422	Customer 422	Delhi
+423	Customer 423	New York
+424	Customer 424	New York
+425	Customer 425	London
+426	Customer 426	New York
+427	Customer 427	São Paulo
+428	Customer 428	Tokyo
+429	Customer 429	Tokyo
+430	Customer 430	Delhi
+431	Customer 431	New York
+432	Customer 432	São Paulo
+433	Customer 433	Delhi
+434	Customer 434	London
+435	Customer 435	Delhi
+436	Customer 436	Delhi
+437	Customer 437	New York
+438	Customer 438	London
+439	Customer 439	Delhi
+440	Customer 440	São Paulo
+441	Customer 441	São Paulo
+442	Customer 442	Tokyo
+443	Customer 443	London
+444	Customer 444	London
+445	Customer 445	Tokyo
+446	Customer 446	Delhi
+447	Customer 447	London
+448	Customer 448	São Paulo
+449	Customer 449	São Paulo
+450	Customer 450	New York
+451	Customer 451	London
+452	Customer 452	Delhi
+453	Customer 453	Tokyo
+454	Customer 454	Tokyo
+455	Customer 455	Delhi
+456	Customer 456	New York
+457	Customer 457	Tokyo
+458	Customer 458	London
+459	Customer 459	New York
+460	Customer 460	London
+461	Customer 461	São Paulo
+462	Customer 462	New York
+463	Customer 463	Tokyo
+464	Customer 464	New York
+465	Customer 465	New York
+466	Customer 466	New York
+467	Customer 467	New York
+468	Customer 468	London
+469	Customer 469	São Paulo
+470	Customer 470	Delhi
+471	Customer 471	New York
+472	Customer 472	Tokyo
+473	Customer 473	New York
+474	Customer 474	Tokyo
+475	Customer 475	London
+476	Customer 476	Tokyo
+477	Customer 477	Delhi
+478	Customer 478	São Paulo
+479	Customer 479	Tokyo
+480	Customer 480	Tokyo
+481	Customer 481	São Paulo
+482	Customer 482	Delhi
+483	Customer 483	New York
+484	Customer 484	Tokyo
+485	Customer 485	São Paulo
+486	Customer 486	London
+487	Customer 487	São Paulo
+488	Customer 488	London
+489	Customer 489	Delhi
+490	Customer 490	New York
+491	Customer 491	São Paulo
+492	Customer 492	Tokyo
+493	Customer 493	Delhi
+494	Customer 494	São Paulo
+495	Customer 495	Tokyo
+496	Customer 496	São Paulo
+497	Customer 497	London
+498	Customer 498	São Paulo
+499	Customer 499	São Paulo
+500	Customer 500	São Paulo
+501	Customer 501	Delhi
+502	Customer 502	São Paulo
+503	Customer 503	Tokyo
+504	Customer 504	London
+505	Customer 505	London
+506	Customer 506	São Paulo
+507	Customer 507	Delhi
+508	Customer 508	Delhi
+509	Customer 509	Tokyo
+510	Customer 510	São Paulo
+511	Customer 511	London
+512	Customer 512	Delhi
+513	Customer 513	São Paulo
+514	Customer 514	Delhi
+515	Customer 515	Delhi
+516	Customer 516	London
+517	Customer 517	New York
+518	Customer 518	Tokyo
+519	Customer 519	Tokyo
+520	Customer 520	London
+521	Customer 521	Delhi
+522	Customer 522	São Paulo
+523	Customer 523	Delhi
+524	Customer 524	London
+525	Customer 525	Tokyo
+526	Customer 526	Delhi
+527	Customer 527	Tokyo
+528	Customer 528	São Paulo
+529	Customer 529	Tokyo
+530	Customer 530	Tokyo
+531	Customer 531	New York
+532	Customer 532	New York
+533	Customer 533	New York
+534	Customer 534	Tokyo
+535	Customer 535	London
+536	Customer 536	Tokyo
+537	Customer 537	London
+538	Customer 538	London
+539	Customer 539	New York
+540	Customer 540	Delhi
+541	Customer 541	São Paulo
+542	Customer 542	New York
+543	Customer 543	New York
+544	Customer 544	Delhi
+545	Customer 545	São Paulo
+546	Customer 546	Tokyo
+547	Customer 547	Tokyo
+548	Customer 548	New York
+549	Customer 549	São Paulo
+550	Customer 550	New York
+551	Customer 551	London
+552	Customer 552	New York
+553	Customer 553	New York
+554	Customer 554	Tokyo
+555	Customer 555	Tokyo
+556	Customer 556	Tokyo
+557	Customer 557	London
+558	Customer 558	Tokyo
+559	Customer 559	São Paulo
+560	Customer 560	Delhi
+561	Customer 561	São Paulo
+562	Customer 562	São Paulo
+563	Customer 563	Tokyo
+564	Customer 564	Delhi
+565	Customer 565	Delhi
+566	Customer 566	Delhi
+567	Customer 567	London
+568	Customer 568	Tokyo
+569	Customer 569	Delhi
+570	Customer 570	London
+571	Customer 571	New York
+572	Customer 572	New York
+573	Customer 573	London
+574	Customer 574	London
+575	Customer 575	Tokyo
+576	Customer 576	Tokyo
+577	Customer 577	New York
+578	Customer 578	Delhi
+579	Customer 579	New York
+580	Customer 580	Delhi
+581	Customer 581	Delhi
+582	Customer 582	Tokyo
+583	Customer 583	São Paulo
+584	Customer 584	São Paulo
+585	Customer 585	London
+586	Customer 586	Tokyo
+587	Customer 587	Delhi
+588	Customer 588	São Paulo
+589	Customer 589	Delhi
+590	Customer 590	São Paulo
+591	Customer 591	São Paulo
+592	Customer 592	São Paulo
+593	Customer 593	Tokyo
+594	Customer 594	New York
+595	Customer 595	Delhi
+596	Customer 596	Tokyo
+597	Customer 597	Tokyo
+598	Customer 598	Tokyo
+599	Customer 599	Tokyo
+600	Customer 600	Tokyo
+601	Customer 601	London
+602	Customer 602	Delhi
+603	Customer 603	Tokyo
+604	Customer 604	Delhi
+605	Customer 605	London
+606	Customer 606	London
+607	Customer 607	Delhi
+608	Customer 608	São Paulo
+609	Customer 609	New York
+610	Customer 610	São Paulo
+611	Customer 611	São Paulo
+612	Customer 612	São Paulo
+613	Customer 613	Tokyo
+614	Customer 614	London
+615	Customer 615	São Paulo
+616	Customer 616	London
+617	Customer 617	Delhi
+618	Customer 618	New York
+619	Customer 619	Delhi
+620	Customer 620	Delhi
+621	Customer 621	Tokyo
+622	Customer 622	New York
+623	Customer 623	Delhi
+624	Customer 624	Delhi
+625	Customer 625	New York
+626	Customer 626	New York
+627	Customer 627	Delhi
+628	Customer 628	New York
+629	Customer 629	Delhi
+630	Customer 630	Delhi
+631	Customer 631	Tokyo
+632	Customer 632	São Paulo
+633	Customer 633	Delhi
+634	Customer 634	London
+635	Customer 635	São Paulo
+636	Customer 636	São Paulo
+637	Customer 637	São Paulo
+638	Customer 638	Tokyo
+639	Customer 639	Delhi
+640	Customer 640	Tokyo
+641	Customer 641	Delhi
+642	Customer 642	Tokyo
+643	Customer 643	Tokyo
+644	Customer 644	London
+645	Customer 645	Tokyo
+646	Customer 646	New York
+647	Customer 647	London
+648	Customer 648	Tokyo
+649	Customer 649	São Paulo
+650	Customer 650	New York
+651	Customer 651	New York
+652	Customer 652	New York
+653	Customer 653	London
+654	Customer 654	Tokyo
+655	Customer 655	Tokyo
+656	Customer 656	São Paulo
+657	Customer 657	São Paulo
+658	Customer 658	New York
+659	Customer 659	São Paulo
+660	Customer 660	London
+661	Customer 661	Tokyo
+662	Customer 662	New York
+663	Customer 663	São Paulo
+664	Customer 664	London
+665	Customer 665	London
+666	Customer 666	São Paulo
+667	Customer 667	Tokyo
+668	Customer 668	São Paulo
+669	Customer 669	New York
+670	Customer 670	São Paulo
+671	Customer 671	London
+672	Customer 672	São Paulo
+673	Customer 673	Tokyo
+674	Customer 674	Delhi
+675	Customer 675	São Paulo
+676	Customer 676	Tokyo
+677	Customer 677	Tokyo
+678	Customer 678	London
+679	Customer 679	Tokyo
+680	Customer 680	Tokyo
+681	Customer 681	Tokyo
+682	Customer 682	Tokyo
+683	Customer 683	New York
+684	Customer 684	New York
+685	Customer 685	London
+686	Customer 686	São Paulo
+687	Customer 687	Tokyo
+688	Customer 688	São Paulo
+689	Customer 689	São Paulo
+690	Customer 690	London
+691	Customer 691	Tokyo
+692	Customer 692	Tokyo
+693	Customer 693	Delhi
+694	Customer 694	São Paulo
+695	Customer 695	São Paulo
+696	Customer 696	New York
+697	Customer 697	Delhi
+698	Customer 698	New York
+699	Customer 699	New York
+700	Customer 700	New York
+701	Customer 701	London
+702	Customer 702	London
+703	Customer 703	New York
+704	Customer 704	Delhi
+705	Customer 705	São Paulo
+706	Customer 706	Delhi
+707	Customer 707	Tokyo
+708	Customer 708	London
+709	Customer 709	São Paulo
+710	Customer 710	São Paulo
+711	Customer 711	Tokyo
+712	Customer 712	Tokyo
+713	Customer 713	New York
+714	Customer 714	London
+715	Customer 715	London
+716	Customer 716	Delhi
+717	Customer 717	New York
+718	Customer 718	New York
+719	Customer 719	New York
+720	Customer 720	New York
+721	Customer 721	London
+722	Customer 722	London
+723	Customer 723	New York
+724	Customer 724	Delhi
+725	Customer 725	São Paulo
+726	Customer 726	São Paulo
+727	Customer 727	Delhi
+728	Customer 728	New York
+729	Customer 729	London
+730	Customer 730	São Paulo
+731	Customer 731	Tokyo
+732	Customer 732	Tokyo
+733	Customer 733	Delhi
+734	Customer 734	New York
+735	Customer 735	São Paulo
+736	Customer 736	New York
+737	Customer 737	São Paulo
+738	Customer 738	Delhi
+739	Customer 739	Delhi
+740	Customer 740	Tokyo
+741	Customer 741	New York
+742	Customer 742	Tokyo
+743	Customer 743	New York
+744	Customer 744	Tokyo
+745	Customer 745	London
+746	Customer 746	London
+747	Customer 747	London
+748	Customer 748	London
+749	Customer 749	São Paulo
+750	Customer 750	London
+751	Customer 751	Delhi
+752	Customer 752	Delhi
+753	Customer 753	São Paulo
+754	Customer 754	London
+755	Customer 755	London
+756	Customer 756	London
+757	Customer 757	Tokyo
+758	Customer 758	New York
+759	Customer 759	Tokyo
+760	Customer 760	New York
+761	Customer 761	London
+762	Customer 762	London
+763	Customer 763	Tokyo
+764	Customer 764	Tokyo
+765	Customer 765	New York
+766	Customer 766	Delhi
+767	Customer 767	New York
+768	Customer 768	Tokyo
+769	Customer 769	Tokyo
+770	Customer 770	São Paulo
+771	Customer 771	Tokyo
+772	Customer 772	São Paulo
+773	Customer 773	Delhi
+774	Customer 774	New York
+775	Customer 775	New York
+776	Customer 776	São Paulo
+777	Customer 777	New York
+778	Customer 778	Tokyo
+779	Customer 779	London
+780	Customer 780	São Paulo
+781	Customer 781	New York
+782	Customer 782	São Paulo
+783	Customer 783	São Paulo
+784	Customer 784	London
+785	Customer 785	Tokyo
+786	Customer 786	São Paulo
+787	Customer 787	New York
+788	Customer 788	Delhi
+789	Customer 789	São Paulo
+790	Customer 790	São Paulo
+791	Customer 791	London
+792	Customer 792	Tokyo
+793	Customer 793	Delhi
+794	Customer 794	New York
+795	Customer 795	Delhi
+796	Customer 796	New York
+797	Customer 797	Tokyo
+798	Customer 798	New York
+799	Customer 799	London
+800	Customer 800	London
+801	Customer 801	London
+802	Customer 802	London
+803	Customer 803	Delhi
+804	Customer 804	Tokyo
+805	Customer 805	New York
+806	Customer 806	New York
+807	Customer 807	London
+808	Customer 808	London
+809	Customer 809	São Paulo
+810	Customer 810	Tokyo
+811	Customer 811	Delhi
+812	Customer 812	New York
+813	Customer 813	São Paulo
+814	Customer 814	São Paulo
+815	Customer 815	New York
+816	Customer 816	Delhi
+817	Customer 817	São Paulo
+818	Customer 818	São Paulo
+819	Customer 819	Tokyo
+820	Customer 820	Delhi
+821	Customer 821	São Paulo
+822	Customer 822	Delhi
+823	Customer 823	New York
+824	Customer 824	London
+825	Customer 825	São Paulo
+826	Customer 826	Tokyo
+827	Customer 827	New York
+828	Customer 828	Delhi
+829	Customer 829	New York
+830	Customer 830	São Paulo
+831	Customer 831	Delhi
+832	Customer 832	London
+833	Customer 833	New York
+834	Customer 834	São Paulo
+835	Customer 835	Tokyo
+836	Customer 836	Delhi
+837	Customer 837	New York
+838	Customer 838	New York
+839	Customer 839	London
+840	Customer 840	London
+841	Customer 841	Tokyo
+842	Customer 842	Tokyo
+843	Customer 843	São Paulo
+844	Customer 844	São Paulo
+845	Customer 845	Tokyo
+846	Customer 846	Tokyo
+847	Customer 847	Delhi
+848	Customer 848	London
+849	Customer 849	São Paulo
+850	Customer 850	London
+851	Customer 851	London
+852	Customer 852	Tokyo
+853	Customer 853	Delhi
+854	Customer 854	New York
+855	Customer 855	Delhi
+856	Customer 856	Delhi
+857	Customer 857	London
+858	Customer 858	Delhi
+859	Customer 859	São Paulo
+860	Customer 860	London
+861	Customer 861	São Paulo
+862	Customer 862	New York
+863	Customer 863	London
+864	Customer 864	New York
+865	Customer 865	London
+866	Customer 866	Tokyo
+867	Customer 867	Delhi
+868	Customer 868	Tokyo
+869	Customer 869	New York
+870	Customer 870	Delhi
+871	Customer 871	London
+872	Customer 872	Delhi
+873	Customer 873	São Paulo
+874	Customer 874	Delhi
+875	Customer 875	São Paulo
+876	Customer 876	Delhi
+877	Customer 877	São Paulo
+878	Customer 878	New York
+879	Customer 879	Tokyo
+880	Customer 880	London
+881	Customer 881	Delhi
+882	Customer 882	Tokyo
+883	Customer 883	London
+884	Customer 884	London
+885	Customer 885	São Paulo
+886	Customer 886	New York
+887	Customer 887	New York
+888	Customer 888	Tokyo
+889	Customer 889	New York
+890	Customer 890	Delhi
+891	Customer 891	New York
+892	Customer 892	Tokyo
+893	Customer 893	New York
+894	Customer 894	Delhi
+895	Customer 895	São Paulo
+896	Customer 896	Tokyo
+897	Customer 897	São Paulo
+898	Customer 898	São Paulo
+899	Customer 899	São Paulo
+900	Customer 900	London
+901	Customer 901	London
+902	Customer 902	São Paulo
+903	Customer 903	Tokyo
+904	Customer 904	Delhi
+905	Customer 905	Delhi
+906	Customer 906	New York
+907	Customer 907	Tokyo
+908	Customer 908	London
+909	Customer 909	São Paulo
+910	Customer 910	New York
+911	Customer 911	Delhi
+912	Customer 912	London
+913	Customer 913	London
+914	Customer 914	São Paulo
+915	Customer 915	Delhi
+916	Customer 916	Tokyo
+917	Customer 917	London
+918	Customer 918	São Paulo
+919	Customer 919	Tokyo
+920	Customer 920	Delhi
+921	Customer 921	London
+922	Customer 922	Tokyo
+923	Customer 923	Tokyo
+924	Customer 924	Tokyo
+925	Customer 925	London
+926	Customer 926	London
+927	Customer 927	New York
+928	Customer 928	Delhi
+929	Customer 929	São Paulo
+930	Customer 930	Tokyo
+931	Customer 931	New York
+932	Customer 932	São Paulo
+933	Customer 933	New York
+934	Customer 934	London
+935	Customer 935	Tokyo
+936	Customer 936	São Paulo
+937	Customer 937	São Paulo
+938	Customer 938	São Paulo
+939	Customer 939	São Paulo
+940	Customer 940	São Paulo
+941	Customer 941	New York
+942	Customer 942	Tokyo
+943	Customer 943	London
+944	Customer 944	London
+945	Customer 945	London
+946	Customer 946	London
+947	Customer 947	New York
+948	Customer 948	Delhi
+949	Customer 949	Tokyo
+950	Customer 950	São Paulo
+951	Customer 951	Delhi
+952	Customer 952	London
+953	Customer 953	Delhi
+954	Customer 954	Tokyo
+955	Customer 955	São Paulo
+956	Customer 956	São Paulo
+957	Customer 957	Tokyo
+958	Customer 958	Tokyo
+959	Customer 959	London
+960	Customer 960	São Paulo
+961	Customer 961	Delhi
+962	Customer 962	New York
+963	Customer 963	New York
+964	Customer 964	Tokyo
+965	Customer 965	London
+966	Customer 966	New York
+967	Customer 967	São Paulo
+968	Customer 968	Tokyo
+969	Customer 969	Delhi
+970	Customer 970	Tokyo
+971	Customer 971	Delhi
+972	Customer 972	Tokyo
+973	Customer 973	Tokyo
+974	Customer 974	Tokyo
+975	Customer 975	Delhi
+976	Customer 976	Delhi
+977	Customer 977	Tokyo
+978	Customer 978	New York
+979	Customer 979	London
+980	Customer 980	London
+981	Customer 981	London
+982	Customer 982	Delhi
+983	Customer 983	Delhi
+984	Customer 984	New York
+985	Customer 985	London
+986	Customer 986	London
+987	Customer 987	Tokyo
+988	Customer 988	Delhi
+989	Customer 989	London
+990	Customer 990	New York
+991	Customer 991	New York
+992	Customer 992	London
+993	Customer 993	Delhi
+994	Customer 994	New York
+995	Customer 995	Tokyo
+996	Customer 996	New York
+997	Customer 997	São Paulo
+998	Customer 998	São Paulo
+999	Customer 999	Delhi
+1000	Customer 1000	London
